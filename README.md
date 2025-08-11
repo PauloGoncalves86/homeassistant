@@ -1,2 +1,3 @@
 # homeassistant
 Experiments using home assistant...
+Octopus experiments and blueprints
